@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+ 🔭 I’m currently looking for a job.
+ 🌱 I’m currently learning JavaScriopt.
 <!--
 **pashokmi/pashokmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### | GitHub Stats |
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pashokmi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+### | Top Langs |
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pashokmi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pashokmi)](https://github.com/anuraghazra/github-readme-stats)
+### | Wakatime Stats |
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pashokmi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
