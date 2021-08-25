@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 ### | Wakatime Stats |
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pashokmi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pashokmi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
