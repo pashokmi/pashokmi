@@ -2,7 +2,7 @@
 
 ### 🔭 <b>I’m currently looking for a job.</b>
 
-### 🌱 I’m currently learning JavaScriopt.
+### 🌱 I’m currently learning JavaScript.
 
 <!--
 **pashokmi/pashokmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
