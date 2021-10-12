@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-### 🔭 <b>I’m currently looking for a job.</b>
+### 🔭 
 
 ### 🌱 I’m currently learning JavaScript.
 
